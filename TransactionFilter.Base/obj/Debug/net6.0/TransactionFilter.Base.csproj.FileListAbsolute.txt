@@ -1,0 +1,12 @@
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\bin\Debug\net6.0\TransactionFilter.Base.deps.json
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\bin\Debug\net6.0\TransactionFilter.Base.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\bin\Debug\net6.0\TransactionFilter.Base.pdb
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.csproj.AssemblyReference.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.AssemblyInfoInputs.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.AssemblyInfo.cs
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.csproj.CoreCompileInputs.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\refint\TransactionFilter.Base.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\TransactionFilter.Base.pdb
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionFilter.Base\obj\Debug\net6.0\ref\TransactionFilter.Base.dll

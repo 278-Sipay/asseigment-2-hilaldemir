@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zZBX5n5IucKO+jcTHkoixdzhOkKttLkAdSwDpT4CYNs=",
+  "Source": "TransactionFilterApi.UI",
+  "BasePath": "_content/TransactionFilterApi.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

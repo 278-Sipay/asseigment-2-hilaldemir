@@ -1,0 +1,17 @@
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionApiFilter.Data.deps.json
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionApiFilter.Data.runtimeconfig.json
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionApiFilter.Data.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionApiFilter.Data.pdb
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionFilter.Base.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\bin\Debug\net6.0\TransactionFilter.Base.pdb
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.csproj.AssemblyReference.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.AssemblyInfoInputs.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.AssemblyInfo.cs
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.csproj.CoreCompileInputs.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.csproj.CopyComplete
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\refint\TransactionApiFilter.Data.dll
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.pdb
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\TransactionApiFilter.Data.genruntimeconfig.cache
+C:\Users\hilal\source\repos\TransactionFilterApiProjectt\TransactionApiFilter.Data\obj\Debug\net6.0\ref\TransactionApiFilter.Data.dll
